@@ -1,0 +1,25 @@
+{
+  "model": {
+    "name": "sum",
+    "type": "function",
+    "container": "args",
+    "url": "sum.js",
+    "autorun": true
+  },
+  "inputs": [
+    {
+      "type": "int",
+      "min": 1
+    },
+    {
+      "type": "int",
+      "min": 2
+    }
+  ],
+  "outputs": [
+    {
+      "type": "int"
+    }
+  ]
+}
+

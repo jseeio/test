@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # test
 
 [test-1](test1/README.md)

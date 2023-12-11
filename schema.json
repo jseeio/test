@@ -1,16 +1,12 @@
 {
   "model": {
-    "name": "prod",
+    "name": "pow",
     "type": "function",
     "container": "args",
-    "url": "prod.js",
+    "url": "pow.js",
     "autorun": true
   },
   "inputs": [
-    {
-      "type": "int",
-      "min": 3
-    },
     {
       "type": "int",
       "min": 4

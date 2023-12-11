@@ -1,0 +1,25 @@
+{
+  "model": {
+    "name": "prod",
+    "type": "function",
+    "container": "args",
+    "url": "prod.js",
+    "autorun": true
+  },
+  "inputs": [
+    {
+      "type": "int",
+      "min": 3
+    },
+    {
+      "type": "int",
+      "min": 4
+    }
+  ],
+  "outputs": [
+    {
+      "type": "int"
+    }
+  ]
+}
+
